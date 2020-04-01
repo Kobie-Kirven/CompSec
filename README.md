@@ -8,12 +8,12 @@ This only works for proteins <150 aa long
 the sequences of the predicted SSE elements
 
 Ex.)
->sequence
+">sequence
 MNGTEGPNFYVPFSNATGVVRSPFEY
 >spider3
 CCCCCCCCCCCCCCCCCCCCCCCCCC
 >sable
-CCCCCCCCCEECCCCCCCCCCCCCCC
+CCCCCCCCCEECCCCCCCCCCCCCCC"
 
 2.) Input the names of the desired HTML colors for the specific secondary structural element
 
