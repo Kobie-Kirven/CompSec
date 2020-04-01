@@ -10,7 +10,7 @@ from concensus import Concensus
 from read_fasta import fasta
 
 #Access list of SSE sequences
-fn = open("secondary_structure_outputs.fasta")
+fn = open("secondary_structure_sequences.fasta")
 lines = fn.readlines()
 fn.close()
 structure = fasta(lines)
